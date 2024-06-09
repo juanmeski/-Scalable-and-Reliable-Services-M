@@ -1,0 +1,134 @@
+{
+        "@context": "http://www.schema.org",
+        "@type": "Museum",
+        "Museum": [
+                {
+                        "name": "Ducati Museum",
+                        "image": "/images/ducati.png",
+                        "description": "The museum of the Italian motorcycle manufacturer located near the historic Ducati factory in Borgo Panigale, is one of the most popular museums in Bologna. Officially inaugurated on October 16, 1998, it was completely restored in 2016, on the occasion of the 90th anniversary of the company's founding, and displays the most beautiful production and racing motorcycles of the Ducati brand. The museum traces the history of the company in four different paths that guide the visitor from its origins to the present day.",
+                        "sameAs": "https://www.ducati.com/it/it/borgo-panigale-experience",
+                        "telephone": "+39 051 641 3111",
+                        "openingHoursSpecification": "Every day, from 9:00 a.m. to 6:00 p.m.\n Last entry: 45 minutes before closing.\n We recommend booking your visit.\n Weekly closing: Wednesday \nOther closing days: January 1, November 29, December 25 and 26.",
+                        "address": "Via Antonio Cavalieri Ducati, 3, 40132 Bologna BO",
+                        "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": "44.516408217077284",
+                                "longitude": "11.268567888458668"
+                        },
+                        "url": "https://www.youtube.com/embed/uHS0P3SonWA?si=iCBHfwZVck3oVX4t",
+                        "email": "infotour@ducati.com"
+                },
+                {
+                        "name": "Museum for the Memory of Ustica",
+                        "image": "/images/ustica.png",
+                        "description": "The Museum for the Memory of Ustica in Bologna is characterized by the permanent installation In Memory of Ustica, an installation conceived and created by the French artist Christian Boltanski to remember the victims of the massacre of the same name. It is located in the Bolognina neighborhood and was installed within an industrial archeology structure (former ATC warehouse, former Bolognese public transport company). Boltanski's installation, extremely attractive and evocative, surrounds the remains of the DC-9, the Itavia company plane that, leaving Bologna airport for Palermo, was shot down in mid-flight on June 27, 1980 and crashed in the Tyrrhenian Sea, near the island. from Ustica. 81 people died in the accident: all passengers and crew members.",
+                        "sameAs": "https://www.museomemoriaustica.it/",
+                        "telephone": "+39 051 377680",
+                        "openingHoursSpecification": "Opening: Friday, Saturday, Sunday 10:00 - 18:00. Closed all other days",
+                        "address": "Via di Saliceto, 3/22, 40128 Bologna BO",
+                        "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": "44.513537410852834",
+                                "longitude": "11.350089524820861"
+                        },
+                        "url": "https://www.youtube.com/embed/tXaSEc4tpgk?si=2JlxEUM5t7gBlW6E",
+                        "email": "info@museomemoriaustica.it"
+                },
+                {
+                        "name": "Pinacoteca Nazionale",
+                        "image": "/images/pinoteca.png",
+                        "description": "The National Art Gallery of Bologna (Pinacoteca Nazionale di Bologna) is a museum in Bologna, Italy. It is located in the former Saint Ignatius Jesuit novitiate of the city's University district, and inside the same building that houses the Academy of Fine Arts. The museum offers a wide collection of Emilian paintings from the 13th to the 18th century and other fundamental works by artists who were in some way related to the city.​",
+                        "sameAs": "https://www.pinacotecabologna.beniculturali.it/en/palazzo-pepoli-campogrande/57-the-collection",
+                        "telephone": "+39 051 420 9411",
+                        "openingHoursSpecification": "Tuesday and Wednesday, 9.00 am to 2.00 pm. Thursday-Sunday and holidays, 10.00am to 7.00pm. The ticket office closes 30 minutes before the indicated times. Weekly closing: Monday. Other closing days: January 1st and December 25th.",
+                        "address": "Pinacoteca Nazionale di Bologna. Via delle Belle Arti, 56, 40126 Bologna",
+                        "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": "44.497783355319626",
+                                "longitude": "11.35345278038024"
+                        },
+                        "url": "https://www.youtube.com/embed/8HK3r4_6xYk?si=BbO9lrLZsHnZw3pO",
+                        "email": "pm-ero.pinacoteca-bo@beniculturali.it"
+                },
+                {
+                        "name": "Palazzo Poggi museum",
+                        "image": "/images/poggi.png",
+                        "description": "Palazzo Poggi, built during the 16th century to a design by Pellegrino Tibaldi, who also created part of the interior frescoes, stands in the heart of the university area and was also, from 1803, the seat of the University. Inside the building there is the Carducci Hall; here the poet Giosuè Carducci held his lessons on Italian literature, a chair which was assigned to him by the Studium of Bologna in 1860. On the first floor of the building, there is the Palazzo Poggi Museum which displays the precious collection of the Institute of Sciences, founded in 1711 by Luigi Ferdinando Marsili, as well as a thematic room dedicated to woodcuts and objects of Far Eastern art.​",
+                        "sameAs": "https://www.bolognawelcome.com/en/places/museums-and-art-galleries/musei-di-palazzo-poggi-2",
+                        "telephone": "+39 051 2099610",
+                        "openingHoursSpecification": "From Tuesday to Friday: 10.00 - 16.00*. Saturday, Sunday and holidays: 10.00 - 18.00*. *Last access 30 minutes before.",
+                        "address": "Via Zamboni, 33 40126 Bologna",
+                        "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": "44.49691593485206",
+                                "longitude": "11.35241962455849"
+                        },
+                        "url": "https://www.youtube.com/embed/YA4P0yWCt8c?si=N834LeLs7VZfv2xT",
+                        "email": "sma.museizamboni33@unibo.it"
+                },
+                {
+                        "name": "MAST",
+                        "image": "/images/mast.png",
+                        "description": "The “MAST. Manifattura di Arti, Sperimentazione e Tecnologia” in Bologna is a large multifunctional center that extends over more than 25,000 m² and which houses within it, in addition to various exhibition spaces, also a 400-seat auditorium, an academy dedicated to technology, a nursery, a gym, a restaurant and a cafe.",
+                        "sameAs": "https://www.mast.org/",
+                        "telephone": "+39 051 647 4345",
+                        "openingHoursSpecification": "From Tuesday to Sunday, 10.00 to 19.00. Closing days: Monday. For some exhibitions, extraordinary evening openings are sometimes scheduled, until 11pm.",
+                        "address": "Via Speranza, 42, 40133 Bologna",
+                        "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": "44.50509284902089",
+                                "longitude": "11.296598563659701"
+                        },
+                        "url": "https://www.youtube.com/embed/ErbCXzMCOe0?si=FlNeZ0TWtolvFU-J",
+                        "email": "press@fondazionemast.org"
+                },
+                {
+                        "name": "Museum of the History of Bologna",
+                        "image": "/images/pepoli.png",
+                        "description": "The Museum of the History of Bologna hosts an itinerary divided into 34 thematic-chronological sections, dedicated to the culture and transformations of the city over the centuries, from the Etruscan Felsina to the present day. The events of the local community are told in an innovative way thanks to an engaging journey, with scenographic and interactive exhibition techniques that immerse the visitor in the different rooms. Among multimedia panels and illustrated graphics, the palace houses precious archaeological finds, such as the Bolognese grave goods from Tomb 10 of the Margherita Gardens, discovered in 1986, and great works of art such as the paintings by Guercino, the Carracci and Giacomo Balla.",
+                        "sameAs": "https://genusbononiae.it/palazzo-pepoli-museo-della-storia-di-bologna/",
+                        "telephone": "+39 051 19936370",
+                        "openingHoursSpecification": "Monday: Closed, Tuesday, Thursday, Friday, Saturday, Sunday: 10am-7pm *Last admission at 6pm. Holidays open from 10am to 7pm on 31/03, 01/04, 25/04, 01/05, 02/06. Closed: non-holiday Mondays, 24 December.",
+                        "address": "Via Castiglione 8, 40124, Bolonia Italia",
+                        "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": "44.49238375470875",
+                                "longitude": "11.346416654998706"
+                        },
+                        "url": "https://www.youtube.com/embed/gg1kol_o4aw?si=GolqumYoj98KhyvI",
+                        "email": "msb@genusbononiae.it "
+                },
+                {
+                        "name": "La Macchina del Tempo",
+                        "image": "/images/tempo.png",
+                        "description": "The Time Machine is a consolidated reality in the field of historical reconstructions within virtual reality experiences, visible to the public since April 2018 in the Virtual Reality Museum of Bologna, in via Zamboni 7 a few steps from the Two Towers with 20 stations available . The Development sector has inaugurated a B to B activity with the reconstruction of projects commissioned by private individuals or institutions and with the installation of existing VR experiences within exhibitions or events.",
+                        "sameAs": "https://www.lamacchinadeltempo.eu/",
+                        "telephone": "+39 051 008 7519",
+                        "openingHoursSpecification": "Monday: closed, Tuesday to Friday: 2pm-7pm. Saturday to Sunday: 10am-7pm.",
+                        "address": "Via Luigi Zamboni, 7, 40126 Bologna BO",
+                        "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": "44.4950327300819",
+                                "longitude": "11.347525024558315"
+                        },
+                        "url": "https://www.youtube.com/embed/IOfCqlhhdMI?si=IwDLnuLXTAyX7uxl",
+                        "email": "info[at]lamacchinadeltempo.eu"
+                },
+                {
+                        "name": "Museo Internazionale e Biblioteca della Musica",
+                        "image": "/images/music.png",
+                        "description": "The Civic Music Bibliographical Museum, founded in 1959 to safeguard the collections of musical assets of the Municipality of Bologna, assumed the new name of International Museum and Library of Music in 2004, with the inauguration of the museum headquarters in Palazzo Sanguinetti[1 ], where the Library was also moved from inside the former Convent of San Giacomo, also home to the G.B. Music Conservatory. Martini. The exceptional nature of the Museum must be sought above all in the synergy established between the collections - one of the most precious legacies of the enlightened spirit with which Father Martini collected his heritage in the eighteenth century - which amplifies its intrinsic, exceptional importance. Among the countless musical stories that the documents allow us to narrate, the museum exhibition has chosen to present those that the documentary wealth can best tell, almost without the aid of explanatory inserts: that of its main creator, Martini, and of his friends and correspondents, such as Christoph Willibald Gluck, Johann Christian Bach, Wolfgang Amadeus Mozart, Charles Burney; that of the musical book from the sixteenth to the nineteenth century; of the Italian opera of the eighteenth century, woven around the figure of Farinelli, and of the nineteenth century, around Gioachino Rossini; the history of theoretical conceptions of music from the fifteenth to the eighteenth century; and the history of the characters and institutions in the musical life of Bologna.",
+                        "sameAs": "https://www.museibologna.it/musica/",
+                        "telephone": "+39 051 275 7711",
+                        "openingHoursSpecification": "Tuesday, Wednesday and Thursday 11.00am>1.30pm | 2.30pm>6.30pm. Friday 10.00am>1.30pm | 2.30pm>7.00pm. Saturday, Sunday and holidays 10.00am > 7.00pm. CLOSED on weekdays; May 1; 25 December 24 and 31 December early closing at 2pm",
+                        "address": "Strada Maggiore, 34 40125 Bologna",
+                        "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": "44.49283206450745",
+                                "longitude": "11.350285066886883"
+                        },
+                        "url": "https://www.youtube.com/embed/mOrIXXFGmvI?si=w3cH7KQQvHcKz5KX",
+                        "email": "museomusica@comune.bologna.it"
+                }
+        ]
+}

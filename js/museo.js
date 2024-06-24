@@ -93,7 +93,7 @@ function loadAPIWeather() {
       temperaturaValor.textContent = `${temp} °C`
 
       let desc = data.weather[0].description
-      ubicacion.textContent = data.name
+     // ubicacion.textContent = data.name
 
       vientoVelocidad.textContent = `${data.wind.speed} m/s`
 

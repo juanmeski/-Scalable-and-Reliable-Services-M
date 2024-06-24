@@ -73,11 +73,11 @@ function loadAPIWeather() {
   let lat = museos.Museum[id]["geo"]["latitude"]
   let lon = museos.Museum[id]["geo"]["longitude"]
   //API call with museum location   
-  //const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=91eb185b92ada1500fb25d3a3f408c92`
-  const url = `/.netlify/functions/weather?lat=${lat}&lon=${lon}`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=91eb185b92ada1500fb25d3a3f408c92`
+  //const url = `/.netlify/functions/weather?lat=${lat}&lon=${lon}`;
   fetch(url)
 
-  .then(response => response.json())
+  /*.then(response => response.json())
   .then(data => {
     let temp = data.temp;
     temperaturaValor.textContent = `${temp} °C`
@@ -85,8 +85,8 @@ function loadAPIWeather() {
     let desc = data.desc;
     ubicacion.textContent = data.location
 
-    vientoVelocidad.textContent = `${data.windSpeed} m/s`
-   /* .then(response => { return response.json() })
+    vientoVelocidad.textContent = `${data.windSpeed} m/s`*/
+    .then(response => { return response.json() })
     .then(data => {
 
       let temp = Math.round((data.main.temp - 273))
@@ -95,7 +95,7 @@ function loadAPIWeather() {
       let desc = data.weather[0].description
       ubicacion.textContent = data.name
 
-      vientoVelocidad.textContent = `${data.wind.speed} m/s`*/
+      vientoVelocidad.textContent = `${data.wind.speed} m/s`
 
       //dynamic SVG
       //switch (data.weather[0].main) {

@@ -73,8 +73,8 @@ function loadAPIWeather() {
   let lat = museos.Museum[id]["geo"]["latitude"]
   let lon = museos.Museum[id]["geo"]["longitude"]
   //API call with museum location   
-  const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=91eb185b92ada1500fb25d3a3f408c92`
-  //const url = `/.netlify/functions/weather?lat=${lat}&lon=${lon}`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=91eb185b92ada1500fb25d3a3f408c92`//const url = `/.netlify/functions/weather?lat=${lat}&lon=${lon}`;
+  
   fetch(url)
 
   /*.then(response => response.json())
